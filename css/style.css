@@ -1,0 +1,171 @@
+header{
+    min-height:750px;
+    background: url(../images/bg.jpg) no-repeat;
+    background-size: cover;
+}
+.divheader{
+    min-height:750px;
+}
+nav{
+    background-color: rgb(40, 155, 120);
+}
+.sec1 div{
+    background-color: rgba(103, 212, 180, 0.603);
+}
+.sec1 div:hover{
+    cursor: pointer;
+    background-color: rgba(209, 117, 64, 0.603);
+
+}
+.btnjoinus{
+    background-color: rgb(221, 107, 61);
+}
+
+.btnjoinus:hover{
+    background-color: rgba(238, 87, 27, 0.719);
+}
+/************************section2***********************/
+.sec2h2{
+    color: rgb(230, 128, 80);
+}
+/*********************About Ruddy***********************/
+
+.secabout1{
+    background-color: rgb(40, 155, 120);
+;
+}
+
+#secabout2{
+    background-color: rgb(221, 107, 61);
+}
+
+
+/**********************OUR PROCESS**********************/
+
+.secourprocess{
+    min-height: 500px;
+    background: url(../images/process-bg.jpg) no-repeat;
+    background-size: cover;
+}
+
+#process1{
+background: url(../images/p-bg1.jpg);
+background-size: cover;
+}
+
+#process2{
+    background: url(../images/p-bg2.jpg);
+    background-size: cover;
+}
+
+#process3{
+    background: url(../images/p-bg3.jpg);
+    background-size: cover;
+}
+
+#process4{
+    background: url(../images/p-bg4.jpg);
+    background-size: cover;
+}
+
+/**********************PORTFOLIO************************/
+.btn1{
+    border :3px solid red !important;
+    border-radius: 0%;
+}
+
+.btn1:hover{
+    background-color: rgb(143, 8, 8);
+    color: white !important;
+}
+
+.btn2{
+    border :3px solid yellow !important;
+    border-radius: 0%;
+}
+
+.btn2:hover{
+    background-color: rgb(235, 201, 12);
+    color: white !important;
+}
+
+.btn3{
+    border:3px solid  rgb(104, 207, 90) !important;
+    border-radius: 0%;
+}
+
+.btn3:hover{
+    background-color: rgb(18, 224, 11);
+    color: white !important;
+}
+
+.btn4{
+    border:3px solid  rgb(46, 104, 24) !important;
+    border-radius: 0%;
+}
+
+.btn4:hover{
+    background-color: rgb(19, 63, 21);
+    color: white !important;
+}
+
+.btn5{
+    border:3px solid  rgb(18, 114, 90) !important;
+    border-radius: 0%;
+}
+
+.btn5:hover{
+    background-color: rgb(17, 94, 68);
+    color: white !important;
+}
+
+.sec6{
+    background-color: rgb(221, 107, 61);
+}
+
+.btn6{
+    border:3px solid  white !important;
+    border-radius: 0%;
+}
+
+.btn6:hover{
+    background-color: rgba(218, 135, 58, 0.616);
+    color: white;
+}
+
+/***********************sec8**************************/
+
+#sec8{
+    position:relative;
+    height: 400px;
+    overflow: hidden;
+
+}
+
+iframe{
+    position:absolute;
+    z-index: 1;
+}
+
+#firstMethod{
+    padding-top: 80px;
+}
+
+#sec81{
+    background-color: rgb(221, 107, 61);
+    position:absolute;
+    top: 0px;
+    margin-left: 50%;   
+    transform: translate(-50%);
+    -webkit-transform: translate(-50%);
+    z-index: 2;    
+}
+
+#height1{
+    height: 250px;
+}
+/************************footer*************************/
+footer{
+    min-height: 100px;
+    background: rgb(58, 57, 57);
+}
